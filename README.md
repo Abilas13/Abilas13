@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Abilas13 👋
+
+I'm an **undergraduate Data Science student** with a passion for building data-driven solutions using Python. I love exploring new technologies and applying what I learn to real-world projects.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Currently pursuing a degree in Data Science  
+- 🐍 Skilled in Python and its data ecosystem  
+- 💡 Interested in machine learning, AI, and data visualization  
+- ⚡ Always eager to learn and collaborate on exciting projects
+
+---
+
+## 🚀 Featured Project
+
+### ChatOn
+A smart and interactive chatbot project designed to make conversations smoother and more engaging. Built with Python and modern data science tools.
+
+---
+
+## 🛠️ Skills
+
+- **Languages:** Python, SQL
+- **Tools & Libraries:** Pandas, NumPy, Matplotlib, scikit-learn
+- **Other:** Data Analysis, Machine Learning, Data Visualization
+
+---
+
+## 📫 Contact Me
+
+- **Email:** y.abilash13@gmail.com
+
+---
 
 <!--
-**Abilas13/Abilas13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Profile last updated: 2025-08-19
 -->
