@@ -1,4 +1,4 @@
-# Hi, I'm Abilas13 👋
+# Hi, I'm Abilas 👋
 
 I'm an **undergraduate Data Science student** with a passion for building data-driven solutions using Python. I love exploring new technologies and applying what I learn to real-world projects.
 
